@@ -1,4 +1,4 @@
-# Bird Scooter in-complete clone
+# Bird app in-complete clone
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
