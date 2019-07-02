@@ -1,0 +1,37 @@
+#inputStartStopRide,
+.MuiInputBase-input {
+  width: 310px;
+  padding: 5px;
+  color: #212121;
+  text-align: center;
+}
+
+#buttonStartStopRide {
+  font-family: sans-serif;
+  color: white;
+  background-color: #61a263;
+  font-weight: 320;
+  width: 80px;
+  height: 80px;
+  box-shadow: none;
+  margin-top: 20px;
+}
+
+#scooterDetails {
+  display: flex;
+  font-family: sans-serif;
+  padding: 10px;
+  margin-top: 30px;
+}
+
+#batteryColor {
+  color: #4caf50;
+}
+
+#codeColor {
+  color: #714399;
+}
+
+#lockColor {
+  color: #714399;
+}

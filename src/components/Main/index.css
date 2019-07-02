@@ -1,0 +1,36 @@
+#inputRide,
+.MuiInputBase-input {
+  width: 310px;
+  margin-top: 300px;
+  padding: 5px;
+  color: #212121;
+  text-align: center;
+}
+
+.MuiInput-underline:before {
+  border-bottom-color: #4f2277 !important;
+}
+
+.MuiInput-underline:after {
+  border-bottom-color: #714399 !important;
+}
+
+#birdLogo {
+  width: 150px;
+}
+
+#buttonRide {
+  font-family: sans-serif;
+  color: white;
+  background-color: #714399;
+  font-weight: 320;
+  width: 300px;
+  border-radius: 2px;
+  box-shadow: none;
+  margin-top: 20px;
+}
+
+#birdPreloader {
+  width: 70px;
+  margin-top: 10px;
+}
