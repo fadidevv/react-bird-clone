@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://circleci.com/gh/gpbl/react-day-picker" rel="nofollow">
+  <a href="" rel="nofollow">
     <img src="https://camo.githubusercontent.com/6fca29b4a4c37dde5a575741b1b20c03722ede84/68747470733a2f2f696d672e736869656c64732e696f2f636972636c6563692f70726f6a6563742f6769746875622f6770626c2f72656163742d6461792d7069636b65722f6d61737465722e7376673f7374796c653d666c61742d737175617265" alt="circleci" style="max-width:100%;">
   </a>
-  <a href="https://codecov.io/gh/gpbl/react-day-picker" rel="nofollow">
+  <a href="" rel="nofollow">
     <img src="https://camo.githubusercontent.com/a23b5d97eb076afb3c0e0125cd1722a9e933dab9/68747470733a2f2f696d672e736869656c64732e696f2f636f6465636f762f632f6769746875622f6770626c2f72656163742d6461792d7069636b65722f6d61737465722e7376673f7374796c653d666c61742d737175617265" alt="npm downloads" style="max-width:100%;">
   </a>
 </p>
