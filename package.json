@@ -1,7 +1,8 @@
 {
   "name": "react-bird-clone",
   "version": "0.1.0",
-  "private": true,
+  "description": "A in-complete Bird app clone",
+  "main": "src/index.js",
   "dependencies": {
     "@material-ui/core": "^4.0.0-rc.0",
     "@material-ui/icons": "^4.0.1",
@@ -17,8 +18,31 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fadidevv/react-bird-clone.git"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "component",
+    "bird",
+    "vehicle",
+    "node-bird",
+    "scooter",
+    "fedux"
+  ],
+  "author": "@FadiDev <developerfadi@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fadidevv/react-bird-clone/issues"
+  },
+  "homepage": "https://birder.netlify.com",
   "eslintConfig": {
     "extends": "react-app"
+  },
+  "peerDependencies": {
+    "react": "~0.13.x || ~0.14.x || ^15.0.0 || ^16.0.0"
   },
   "browserslist": {
     "production": [
