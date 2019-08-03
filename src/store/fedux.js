@@ -1,3 +1,6 @@
+/**
+* @Author @FadiDev gray at Thailand, Bangkok
+*/
 /* eslint-disable */
 import React from 'react'
 var { EventEmitter } = require('eventemitter3'),
