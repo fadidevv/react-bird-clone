@@ -1,7 +1,7 @@
 <h1 align="center">Bird app in-complete clone</h1>
 
 <p align="center">
-<a href="https://birder.netlify.com/" rel="nofollow"><img width="180" alt="property of Bird company" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/New_Bird_Logo.png" style="max-width:100%;"></a>
+<a href="https://birder.netlify.com/" rel="nofollow"><img width="180" alt="property of Bird company" src="http://universalscrapbook.com/Logos_Exchange/Images/1022775103342009.gif" style="max-width:100%;"></a>
 </p>
 
 <p align="center">
